@@ -55,7 +55,6 @@
 | >24hrs of random vectors?                  |                                |
 | Randomized clock frequencies?              |                                |
 | Were all open issues closed?               |                                |
-
 | Were all features tested?                  |                                |
 | Simulator support for all features?        |                                |
 | Was design emulated in an FPGA?            |                                |
